@@ -111,7 +111,7 @@ class _Login_RegisterPageState extends State<Login_RegisterPage> {
                   shape: RoundedRectangleBorder(
                       borderRadius: BorderRadius.circular(20)),
                   child: Text(
-                    'Register',
+                    'Sing Up',
                     style: TextStyle(
                       fontSize: 20,
                       color: Colors.deepOrange,
