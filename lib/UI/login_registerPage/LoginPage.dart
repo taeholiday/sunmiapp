@@ -24,7 +24,9 @@ class _LoginPageState extends State<LoginPage> {
             padding: EdgeInsets.all(30.0),
             children: <Widget>[
               TextFormField(
-                decoration: InputDecoration(labelText: 'Email'),
+                decoration: InputDecoration(
+                  labelText: "Email",
+                ),
               ),
               TextFormField(
                 decoration: InputDecoration(labelText: 'Password'),
